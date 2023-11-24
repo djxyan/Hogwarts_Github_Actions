@@ -9,5 +9,5 @@
        name: Post welcome comment
        runs-on: ubuntu-latest
        steps:
-              - run: echo "🎉 The job was automatically triggered by a ${{ github.event_name }} event."
+          - run: echo "🎉 The job was automatically triggered by a ${{ github.event_name }} event."
         
