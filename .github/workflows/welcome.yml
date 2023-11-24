@@ -10,4 +10,5 @@
        runs-on: ubuntu-latest
        steps:
           name: Paso1
+          - run: echo "🎉 The job was automatically triggered by a event."
         
