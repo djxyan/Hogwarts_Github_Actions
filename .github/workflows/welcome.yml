@@ -9,6 +9,6 @@
        name: Post welcome comment
        runs-on: ubuntu-latest
        steps:
-          name: Paso1
+          name: Paso11
           - run: echo "🎉 The job was automatically triggered by a event."
         
