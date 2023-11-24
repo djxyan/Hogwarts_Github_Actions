@@ -10,3 +10,4 @@
        runs-on: ubuntu-latest
        steps:
         name: Paso1
+        - run: gh pr comment --body "Welcome to the repository!"
